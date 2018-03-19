@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Sun Mar 18 15:06:03 GMT-03:00 2018
+#Sun Mar 18 16:21:52 GMT-03:00 2018
 0.baseType=DIRECTORY
 0.base=C\:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\assets\\debug
 0.path=Rosario-Regular.ttf

@@ -4,12 +4,24 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\animator-v21_fab_state_list_anim.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\src\\main\\res\\animator-v21\\fab_state_list_anim.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -36,6 +48,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_menu_item_action_area.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
     },
@@ -50,6 +66,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_design_fab_background.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
@@ -68,12 +88,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_simple_dropdown_hint.xml.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\layout\\abc_simple_dropdown_hint.xml"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_simple_dropdown_hint.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\layout\\abc_simple_dropdown_hint.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
@@ -82,6 +102,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-hdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -104,6 +128,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\color-v23\\abc_tint_default.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
@@ -116,28 +144,32 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_clear_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-xxxhdpi-v4\\abc_ic_clear_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
@@ -160,12 +192,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
@@ -176,12 +208,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -194,6 +226,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_text.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_layout_tab_text.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
@@ -214,6 +250,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_tab_icon.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_layout_tab_icon.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -268,12 +308,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\9be546a18ff9c3d39037274a1c5b0f41\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -328,6 +368,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-mdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
@@ -358,6 +402,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_subheader.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_item_subheader.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
@@ -408,16 +456,24 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_design_password_eye.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-nodpi_empty_detail.png.flat",
@@ -432,12 +488,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
@@ -500,6 +556,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_separator.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\tooltip_frame_dark.xml"
     },
@@ -508,12 +568,20 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-mdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_menu.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
@@ -532,12 +600,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\layout\\notification_template_icon_group.xml"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\layout\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
@@ -584,16 +652,16 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
@@ -608,6 +676,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_layout_snackbar_include.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\color\\abc_tint_switch_track.xml"
     },
@@ -616,16 +688,24 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
-        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\animator-v21\\design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xxxhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
@@ -662,6 +742,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_go_search_api_mtrl_alpha.png.flat",
@@ -804,6 +888,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_design_password_eye.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
     },
@@ -814,6 +902,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_hide_password.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-v21\\avd_hide_password.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
@@ -864,6 +956,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_avd_show_password.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
     },
@@ -912,6 +1008,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xxhdpi-v4\\design_ic_visibility.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -940,12 +1040,20 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\9be546a18ff9c3d39037274a1c5b0f41\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
@@ -1024,6 +1132,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_photo_background_protection.xml.flat",
         "source": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\src\\main\\res\\drawable\\photo_background_protection.xml"
     },
@@ -1072,6 +1184,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_design_snackbar_background.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
     },
@@ -1114,6 +1230,14 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_bottom_navigation_item.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
@@ -1168,12 +1292,12 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim-v21_fab_state_list_anim.xml.flat",
-        "source": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\src\\main\\res\\anim-v21\\fab_state_list_anim.xml"
-    },
-    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_navigation_empty_icon.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
@@ -1296,6 +1420,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_in.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_ratingbar_material.xml"
     },
@@ -1326,6 +1454,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-v16_notification_template_custom_big.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color-v23_design_tint_password_toggle.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\color-v23\\design_tint_password_toggle.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
@@ -1400,6 +1532,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\f02849c3e8a7e0b9d3c90dc89d7477c8\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-mdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
     },
@@ -1440,6 +1576,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\color_design_error.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\color\\design_error.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_voice_search_api_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-22.0.0.aar\\03d75780044c89825b86f79135d662b9\\res\\drawable-xhdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png"
     },
@@ -1452,8 +1592,16 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_design_bottom_navigation_item_background.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_design_ic_visibility_off.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
@@ -1576,16 +1724,32 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_design_bottom_sheet_slide_in.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_text_input_password_icon.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_text_input_password_icon.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xhdpi-v4\\design_ic_visibility_off.png"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_design_ic_visibility.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xhdpi-v4\\design_ic_visibility.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
@@ -1680,6 +1844,14 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\anim_design_snackbar_out.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_menu_item.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
@@ -1702,6 +1874,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.0.aar\\9be546a18ff9c3d39037274a1c5b0f41\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\drawable-xxxhdpi-v4\\design_ic_visibility_off.png"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -1768,6 +1944,10 @@
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
     },
     {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13_design_layout_snackbar.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
@@ -1810,6 +1990,10 @@
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
         "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c5d9788310c076360a85768e8ec25e5a\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\layout_design_navigation_item_header.xml.flat",
+        "source": "C:\\Users\\Rodrigo\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.0.aar\\5439f9feb4772b7f6a72618a64aba4cd\\res\\layout\\design_navigation_item_header.xml"
     },
     {
         "merged": "C:\\Users\\Rodrigo\\Documents\\UDACITY\\XYZReader\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",

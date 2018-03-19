@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Bacon.Detail" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimaryDark">@color/light_primary</item>
+        <item name="colorPrimary">@color/dark_primary</item>
+        <item name="colorAccent">@color/theme_accent</item>
+    </style>
+</resources>
