@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UDACITY.iml" filepath="$PROJECT_DIR$/UDACITY.iml" />
       <module fileurl="file://$PROJECT_DIR$/XYZReader/XYZReader.iml" filepath="$PROJECT_DIR$/XYZReader/XYZReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/materialtheme.iml" filepath="$PROJECT_DIR$/materialtheme.iml" />
     </modules>
   </component>
 </project>
